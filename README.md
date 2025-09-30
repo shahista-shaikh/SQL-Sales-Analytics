@@ -16,7 +16,7 @@ This project analyzes the monthly revenue and order volume of an e-commerce data
 
 Dataset Description
 
-The dataset ecommerce_sales contains 34,500 records of e-commerce transactions.
+The dataset ecommerce_sales contains 29,112 records of e-commerce transactions.
 Each record includes information about the product, customer, order details, and sales metrics.
 
 Purpose:
@@ -24,8 +24,6 @@ Purpose:
 - Analyze monthly revenue and order trends.
 
 - Understand category and regional sales patterns.
-
-The dataset CSV is included in this repository: <a href="">ecommerce_sales.csv</a>
 
 ---
 
