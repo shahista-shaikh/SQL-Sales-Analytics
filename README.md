@@ -14,29 +14,19 @@ This project analyzes the monthly revenue and order volume of an e-commerce data
 
 ## Dataset Description
 
-The dataset (ecommerce_sales) contains 34,500 records with the following columns:
+Dataset Description
 
-Column Name	Description
+The dataset ecommerce_sales contains 34,500 records of e-commerce transactions.
+Each record includes information about the product, customer, order details, and sales metrics.
 
-order_id	Unique identifier for each order
+Purpose:
 
-customer_id	Unique identifier for each customer
-product_id	Unique identifier for each product
-category	Product category (Electronics, Fashion, Home, etc.)
-price	Unit price of the product
-discount	Discount applied (%)
-quantity	Number of items purchased
-payment_method	Payment type (Credit Card, UPI, PayPal, etc.)
-order_date	Date of purchase
-delivery_time_days	Days taken to deliver the order
-region	Geographic region of the customer
-returned	Whether the product was returned (Yes/No)
-total_amount	Final bill amount after discounts
-shipping_cost	Delivery charges
-profit_margin	Profit earned from the order
-customer_age	Age of the customer 
-customer_gender Gender of the customer
+- Analyze monthly revenue and order trends.
 
+- Understand category and regional sales patterns.
+
+The dataset CSV is included in this repository: <a href="">ecommerce_sales.csv</a>
+.
 ---
 
 ## Tools Used
