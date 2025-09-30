@@ -17,7 +17,9 @@ This project analyzes the monthly revenue and order volume of an e-commerce data
 The dataset (ecommerce_sales) contains 34,500 records with the following columns:
 
 Column Name	Description
+
 order_id	Unique identifier for each order
+
 customer_id	Unique identifier for each customer
 product_id	Unique identifier for each product
 category	Product category (Electronics, Fashion, Home, etc.)
