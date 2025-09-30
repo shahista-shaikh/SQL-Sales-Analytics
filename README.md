@@ -26,7 +26,7 @@ Purpose:
 - Understand category and regional sales patterns.
 
 The dataset CSV is included in this repository: <a href="">ecommerce_sales.csv</a>
-.
+
 ---
 
 ## Tools Used
